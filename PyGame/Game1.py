@@ -7,7 +7,7 @@ from pygame import mixer
 # Intialize the pygame
 pygame.init()
 
-# create the screen cua so game123
+# create the screen cua so game
 screen = pygame.display.set_mode((800, 600))
 
 # Background
